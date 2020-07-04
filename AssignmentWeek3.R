@@ -28,7 +28,7 @@ cachemean <- function(x, ...) {
 }
 
 
-##Please include your own comment to explain your code (Required in Rubric)
+##
 
 makeCacheMatrix <- function(x = matrix()) {
   j <- NULL
@@ -44,7 +44,7 @@ makeCacheMatrix <- function(x = matrix()) {
        getInverse = getInverse)
 }
 
-##Please include your own comment to explain your code (Required in Rubric)
+##
 
 cacheSolve <- function(x, ...) {
   ## Return a matrix that is the inverse of 'x'
